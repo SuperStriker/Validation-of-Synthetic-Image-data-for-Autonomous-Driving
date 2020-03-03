@@ -1,10 +1,10 @@
-# CMPE 256 - Fall 2019 Project: Team Surreal
-## Evaluating Validity of Synthetic data in Perception tasks for Autonomous Vehicles
+# CMPE 295 - Spring 2020.
+## Real Time Video processing using Object Detection
 
 The original implementation of YOLOv3 comes from [qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3). This repository contains the modified implementation for the datasets mentioned below and in the project report. This repository also contains code for data collection from LGSVL Simulators written as ROS (Robot Operating System) Nodes, as well as data processing and evaluation scripts.
 
 ## Introduction
-This repository provides code for the implementation of the project __Evaluating Validity of Synthetic data in Perception tasks for Autonomous Vehicles__ implemented as the final project for CMPE 256 Fall 2019 by Team Surreal. In this project, we aim to determine if data generated from simulated 3D environments can be generalized to real-world test datasets. Here, we provide code for the following tasks:
+This repository provides code for the implementation of the project __Evaluating Validity of Synthetic data in Perception tasks for Autonomous Vehicles__ implemented as the final project for CMPE 295 Spring 2020 by Team Surreal. In this project, we aim to determine if data generated from simulated 3D environments can be generalized to real-world test datasets. Here, we provide code for the following tasks:
 * Collecting data from the simulation environments.
 * Extracting data from Waymo Open Dataset and converting it to our format.
 * Extracting data from KITTI Vision benchmark dataset and converting it to our format.
@@ -157,4 +157,4 @@ This section shows sample images from inference of our trained models on our tes
 * **Deepak Talwar** - (https://github.com/deepaktalwardt)
 * **Sachin Guruswamy** - (https://github.com/swdev1202)
 * **Naveen Ravipati** - (https://github.com/Naveen-Ravipati)
-### This repository was developed for CMPE 256 - Large Scale Analytics at San Jose State University in Fall 2019.
+### This repository was developed for CMPE 295 - for Masters' Project at San Jose State University in Spring 2020.
