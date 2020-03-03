@@ -154,7 +154,9 @@ This section shows sample images from inference of our trained models on our tes
 [![2D Perception of Micro-mobility Vehicles on LGSVL Simulator | CMPE 297 Spring 2019](docs/images/thumbnail.jpg)](https://www.youtube.com/watch?v=DwWY89dVGEw) -->
 
 ## Contributors
-* **Deepak Talwar** - (https://github.com/deepaktalwardt)
-* **Sachin Guruswamy** - (https://github.com/swdev1202)
+* **Akhil Raveendran** - (https://github.com/itsrakhil163)
+* **AnoopMartin** - (https://github.com/SuperStriker)
 * **Naveen Ravipati** - (https://github.com/Naveen-Ravipati)
+* **Sandhya Ramachandra** - (https://github.com/SandyaRamachandra)
+
 ### This repository was developed for CMPE 295 - for Masters' Project at San Jose State University in Spring 2020.
